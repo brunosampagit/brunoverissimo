@@ -5,4 +5,3 @@ Não sou apenas um executor de testes, tenho a preocupação de elevar a maturid
 Estou me desenvolvendo em JavaScript para ter um melhor conhecimento em Cypress.
 Sou formado em Redes de Computadores e cursando Automação de Teste, além de possuir diversos cursos complementares relacionados à área da tecnologia da informação. 
 Tenho experiência e prática em análise e suporte de infraestrutura de redes, em monitoramento de dispositivos de rede e em desenvolvimento e aplicação de soluções operacionais.
-Para mim, trabalhar na área de automação de testes, seria uma grande realização profissional e pessoal, pois meu intuito é contribuir com a otimização do desempenho e com os resultados cada vez mais positivos da empresa e para tal, disponho de toda a minha disposição, dedicação e empenho.
